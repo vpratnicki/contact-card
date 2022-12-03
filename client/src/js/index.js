@@ -1,6 +1,6 @@
 // Import functions
-import {initdb, postDb, deleteDb, editDb} from './database';
-import {fetchCards} from './cards';
+import { initdb, postDb, deleteDb, editDb } from './database';
+import { fetchCards } from './cards';
 import { toggleForm, clearForm } from './form';
 
 // Import CSS files
